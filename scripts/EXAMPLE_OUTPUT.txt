@@ -1,0 +1,13 @@
+DLS Password Backup
+========================================================================
+Searching for files matching: /Users/cavgchagstuejncm/Library/CloudStorage/GoogleDrive-[your@email]/My Drive/.DLS/*.kdbx
+Searching for files matching: /Users/cavgchagstuejncm/Library/Mobile Documents/com~apple~CloudDocs/.DLS/*.kdbx
+Searching for files matching: /Users/cavgchagstuejncm/Documents/Backups/Backup-*.kdbx
+Found 1 unique file(s) to back up from 3 locations.
+- [COPYING]    Test.kdbx                                    ... SUCCESS
+========================================================================
+🏁 Backup complete.
+Copied: 1 | Failed: 0 | Unmatched patterns: 1
+WARN: The following patterns did not match any files:
+- /Users/cavgchagstuejncm/Documents/Backups/Backup-*.kdbx
+========================================================================
