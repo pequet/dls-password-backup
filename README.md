@@ -44,16 +44,16 @@ The script is designed to be run directly without any installation.
 2.  **Configure the Script:**
     Navigate to the script's directory, then copy the example configuration file and edit it with the **absolute paths** to your password databases.
 
-    ```bash
-    # Navigate to the script's directory
-    cd /path/to/dls-password-backup
-    
-    # Create your personal config file
-    cp scripts/password-backup.config.example scripts/password-backup.config
-    
-    # Edit the new config file with your paths
-    nano scripts/password-backup.config
-    ```
+```bash
+# Navigate to the script's directory
+cd /path/to/dls-password-backup
+
+# Create your personal config file
+cp scripts/password-backup.config.example scripts/password-backup.config
+
+# Edit the new config file with your paths
+nano scripts/password-backup.config
+```
 
     Example `password-backup.config` contents:
 
@@ -74,10 +74,10 @@ DEST_DIR="./Password Databases/"
 3.  **Run the Backup:**
     Make the script executable (you only need to do this once), then run it to back up your files.
 
-    ```bash
-    chmod +x scripts/dls-password-backup.sh
-    ./scripts/dls-password-backup.sh
-    ```
+```bash
+chmod +x scripts/dls-password-backup.sh
+./scripts/dls-password-backup.sh
+```
 
 ## Manual Usage
 
