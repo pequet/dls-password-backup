@@ -10,7 +10,7 @@ summary: Tracks overarching project milestones, active quests, and serves as a m
 
 ## Core Motivation
 
-To create a simple, robust, and transparent tool that empowers a user to maintain a secure, on-demand local backup of their most critical digital assets (password databases), strengthening their overall digital life security with a key layer of controlled redundancy.
+To create a simple, robust, and transparent tool that empowers a user to maintain a secure, on-demand local backup of their most critical digital assets (password databases), strengthening their overall Digital Life Security with a key layer of controlled redundancy.
 
 ## Standard Project Milestones
 
